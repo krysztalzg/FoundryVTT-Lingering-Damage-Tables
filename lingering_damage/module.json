@@ -1,0 +1,29 @@
+{
+  "id": "lingering_damage",
+  "title": "Lingering Damage Tables",
+  "description": "Tables with random lignering damage effects",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.303",
+    "maximum": "11"
+  },
+  "authors": [
+    {
+      "name": "thandul",
+      "url": "https://github.com/krysztalzg/"
+    }
+  ],
+  "packs": [
+    {
+      "name": "lingering-damage-pack",
+      "label": "Lingering Damage Tables",
+      "path": "packs/lingeringdamagetable.db",
+      "module": "lingering_damage",
+      "type": "RollTable"
+    }
+  ],
+  "url": "https://github.com/krysztalzg/FoundryVTT-Lingering-Damage-Tables",
+  "manifest": "https://raw.githubusercontent.com/krysztalzg/FoundryVTT-Lingering-Damage-Tables/main/lingering_damage/module.json",
+  "download": "https://github.com/krysztalzg/FoundryVTT-Lingering-Damage-Tables/raw/main/lingering_damage.zip"
+}
